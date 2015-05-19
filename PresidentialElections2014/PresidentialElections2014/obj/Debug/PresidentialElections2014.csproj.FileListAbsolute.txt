@@ -1,0 +1,14 @@
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\bin\Debug\GeopraphicalStatistics.exe.config
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\bin\Debug\GeopraphicalStatistics.exe
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\bin\Debug\GeopraphicalStatistics.pdb
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.csprojResolveAssemblyReference.cache
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.Forms.FAbout.resources
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.Forms.FMain.resources
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.FProjectSelect.resources
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.Forms.FSettings.resources
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.Properties.Resources.resources
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.csproj.GenerateResource.Cache
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\GeopraphicalStatistics.exe
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\GeopraphicalStatistics.pdb
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.Forms.FFilters.resources
+D:\[ Documents ]\C#\PresidentialElections2014\PresidentialElections2014\obj\Debug\PresidentialElections2014.Forms.FColumnSelect.resources

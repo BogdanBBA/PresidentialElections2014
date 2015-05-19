@@ -1,0 +1,19 @@
+<ElectionsDatabaseConfiguration lastSaved="Mon, 16 March 2015, 20:56:15">
+  <Column type="4" candidateNumber="" percentageWidth="12" percentageWherePossible="False" visible="True" />
+  <Column type="3" candidateNumber="" percentageWidth="23" percentageWherePossible="False" visible="True" />
+  <Column type="12" candidateNumber="" percentageWidth="15" percentageWherePossible="False" visible="True" />
+  <Column type="11" candidateNumber="" percentageWidth="10" percentageWherePossible="True" visible="True" />
+  <Column type="20" candidateNumber="2" percentageWidth="10" percentageWherePossible="False" visible="True" />
+  <Column type="20" candidateNumber="2" percentageWidth="8" percentageWherePossible="True" visible="True" />
+  <Column type="20" candidateNumber="1" percentageWidth="8" percentageWherePossible="True" visible="True" />
+  <Column type="20" candidateNumber="1" percentageWidth="10" percentageWherePossible="False" visible="True" />
+  <Column type="1" candidateNumber="" percentageWidth="10" percentageWherePossible="False" visible="False" />
+  <Column type="10" candidateNumber="" percentageWidth="10" percentageWherePossible="False" visible="False" />
+  <Column type="13" candidateNumber="" percentageWidth="15" percentageWherePossible="False" visible="False" />
+  <Column type="13" candidateNumber="" percentageWidth="7" percentageWherePossible="True" visible="False" />
+  <Column type="14" candidateNumber="" percentageWidth="15" percentageWherePossible="False" visible="False" />
+  <Column type="14" candidateNumber="" percentageWidth="10" percentageWherePossible="True" visible="False" />
+  <Column type="15" candidateNumber="" percentageWidth="15" percentageWherePossible="False" visible="False" />
+  <Column type="15" candidateNumber="" percentageWidth="10" percentageWherePossible="True" visible="False" />
+  <Column type="2" candidateNumber="" percentageWidth="10" percentageWherePossible="False" visible="False" />
+</ElectionsDatabaseConfiguration>
